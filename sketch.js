@@ -59,7 +59,7 @@ redCG = new Group();
 }
 
 function draw() {
-  background(0);
+  background(cyan);
   
   drawSprites();
   textSize(20);
